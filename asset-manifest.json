@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cornelia.github.io/static/css/main.60565138.css",
+    "main.js": "/cornelia.github.io/static/js/main.59ab3985.js",
+    "static/media/skills_vector.png": "/cornelia.github.io/static/media/skills_vector.1fb5f4a4d14c368c84df.png",
+    "static/media/CV.pdf": "/cornelia.github.io/static/media/CV.def28951d4774fd29482.pdf",
+    "index.html": "/cornelia.github.io/index.html",
+    "main.60565138.css.map": "/cornelia.github.io/static/css/main.60565138.css.map",
+    "main.59ab3985.js.map": "/cornelia.github.io/static/js/main.59ab3985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60565138.css",
+    "static/js/main.59ab3985.js"
+  ]
+}
